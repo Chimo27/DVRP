@@ -223,8 +223,8 @@ A GPU is optional. CPU execution is supported, although training takes longer.
 Replace the URL below with the URL of your GitHub repository.
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone <https://github.com/Chimo27/DVRP.git>
+cd <DVRP>
 ```
 
 ### 2. Create a virtual environment
